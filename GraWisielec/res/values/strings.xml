@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wisielec</string>
+    <string-array name="words">
+        <item>komputer</item>
+        <item>programowanie</item>
+        <item>sieci</item>
+	<item>grafika</item>
+	<item>bazy</item>
+	<item>android</item>
+	<item>windows</item>
+	<item>linux</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<TextView
+	android:id="@+id/randomTextView"
+ 	android:layout_width="wrap_content"
+ 	android:layout_height="wrap_content"
+ 	android:layout_centerHorizontal="true"
+ 	android:layout_centerVertical="true"/>
+
+<EditText
+	android:layout_width="fill_parent"
+	android:layout_height="35dp"
+	android:hint="Wpisz litere"
+	android:background="#EEEEEE"
+	android:id="@+id/editText1"
+	android:inputType="text"
+	android:maxLength="1"
+        android:fontFamily="Arial"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="20sp" />
+
+<Button
+        android:id="@+id/sprawdz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sprawdz"
+        android:onClick="clickButton1" />
+
+<ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
+

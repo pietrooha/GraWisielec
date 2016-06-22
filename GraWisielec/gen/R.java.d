@@ -1,0 +1,26 @@
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/gen/lista2/zad2/wisielec/R.java \
+ : /home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/layout/main.xml \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec5.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec3.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec1.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec4.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec6.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec0.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-nodpi/wisielec2.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-xhdpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-mdpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-hdpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/drawable-ldpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/res/values/strings.xml \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec5.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec3.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec1.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec4.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec6.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec0.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-nodpi/wisielec2.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-mdpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-hdpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/res/drawable-ldpi/ic_launcher.png \
+/home/piotr/AndroidSDK/android-sdk-linux/tools/WisielecProject/bin/AndroidManifest.xml \
